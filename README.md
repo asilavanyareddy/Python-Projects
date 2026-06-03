@@ -1,5 +1,6 @@
 # Python-Projects
 My Python practice projects
+-------------------------------------------
 🎮 Number Guessing Game
    A fun and simple Python game where you try to guess the number chosen by the computer.
 
@@ -12,6 +13,6 @@ My Python practice projects
  - Try to find the correct number!
  Built With
     - Python 
-▶️ How to Run
-     python NumberGuessingGame.py
+How to Run
+    - python NumberGuessingGame.py
 
